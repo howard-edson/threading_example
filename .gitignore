@@ -1,0 +1,4 @@
+*.py[cod]
+secrets.json
+/__pycache__/
+/images/
